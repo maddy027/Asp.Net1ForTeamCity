@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WebAppForTC", "WebAppForTC\WebAppForTC.vbproj", "{912DEE71-BDD7-430F-B3F3-BBE7136EFCCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{912DEE71-BDD7-430F-B3F3-BBE7136EFCCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912DEE71-BDD7-430F-B3F3-BBE7136EFCCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912DEE71-BDD7-430F-B3F3-BBE7136EFCCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912DEE71-BDD7-430F-B3F3-BBE7136EFCCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F38B316-D4F5-42E4-98DB-0E25ED27A97A}
+	EndGlobalSection
+EndGlobal
